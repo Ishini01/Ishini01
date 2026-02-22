@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00F7FF&height=200&section=header&text=Ishini%20Awanka&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Ishini</h1>
 <h3 align="center">🚀 Future Full Stack Developer | BSc IT Undergraduate</h3>
 
@@ -11,8 +15,8 @@
 
 - 🎓 Undergraduate in **BSc Applied Sciences (IT)**
 - 🌱 Currently learning **Spring Boot & Full Stack Development**
-- 🤖 Interested in **AI, Computer Vision & Smart Retail Systems**
-- 🎯 Goal: Graduate with 1st Class & become a Professional Full Stack Developer
+- 🤖 Interested in **AI, Computer Vision & Web development**
+- 🎯 Goal: Become a Professional Full Stack Developer
 - ⚡ Love building intelligent systems with real-world impact
 
 ---
