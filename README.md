@@ -46,7 +46,7 @@
     <img src="https://img.shields.io/badge/Email-00F7FF?style=for-the-badge&logo=gmail&logoColor=black"/>
   </a>
 
-  <a href="www.linkedin.com/in/ishini-awanka-0806a8356">
+  <a href="https://www.linkedin.com/in/ishini-awanka-0806a8356">
     <img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
   </a>
 </p>
